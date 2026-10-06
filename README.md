@@ -61,7 +61,7 @@ Welcome to the definitive, high-visibility curated directory of **online gaming 
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Mindustry (Anuken/Mindustry)](https://github.com/Anuken/Mindustry)** [![Stars](https://img.shields.io/github/stars/Anuken/Mindustry?style=social&color=white)](https://github.com/Anuken/Mindustry/stargazers)  
   **Open-source tower defense and RTS with online multiplayer**, GPL-3.0 licensed. Supports online co-op, cross-platform play, and custom dedicated servers. Built in Java/Kotlin. 🏭
